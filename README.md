@@ -1,9 +1,18 @@
-Hello World!
+# Hello World! 👋
 
-my name is Victor 👋 **Frontend Specialist | React, Redux & Creative Interfaces** 
+I’m Victor — **Front-End Specialist | React, Redux & Creative Interfaces**  
 
-I build thoughtful interfaces and musical tools with ReactJS, Redux, and a touch of sonic experimentation. I value clear structure, elegant abstraction, and minimal boilerplate — all in service of creativity, autonomy, and meaningful interaction.
+15+ years building thoughtful interfaces, musical tools, and clean abstractions — mostly in my hacker room, not at noisy meetups.  
+Mainly frontend (React & Redux), but I’m comfortable jumping into Ruby on Rails, PHP, WordPress, or whatever gets the job done — ramping up fast is part of the fun.
 
-Currently exploring ways to orchestrate music sequences and generative patterns in the browser. Open to ideas that challenge convention but honor simplicity and craft.
+I care about clean structure, elegant abstraction, and minimal boilerplate — all in service of creativity, autonomy, and meaningful user experiences.
 
-find my on linkedin https://www.linkedin.com/in/victordelarocha/
+I value fair pay and clear agreements — but more than that, I’m driven by meaningful work, open collaboration, and sharing knowledge freely. Quality work deserves respect, and I’m committed to giving my best in return.
+
+**Open to paid roles and creative side projects alike.**  
+
+If you’d rather ship meaningful work than play hiring games — reach out.
+
+[Find me on LinkedIn](https://www.linkedin.com/in/victordelarocha/)
+
+![](https://komarev.com/ghpvc/?username=vyk2rr&style=pixel)
