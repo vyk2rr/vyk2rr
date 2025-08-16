@@ -15,6 +15,6 @@ If you’d rather ship meaningful work than play hiring games — reach out.
 
 [Find me on LinkedIn](https://www.linkedin.com/in/victordelarocha/)
 
-Check out a few of my projects here: vyk2rr.github.io/vyk2rr
+Check out a few of my projects here: [vyk2rr.github.io/vyk2rr](https://vyk2rr.github.io/vyk2rr/)
 
 ![](https://komarev.com/ghpvc/?username=vyk2rr&style=pixel)
